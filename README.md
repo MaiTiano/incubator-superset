@@ -200,7 +200,7 @@ Join our growing community!
  1. [Tenable](https://www.tenable.com) [@dflionis]
  1. [THE ICONIC](http://theiconic.com.au/) [@ksaagariconic]
  1. [timbr.ai](https://timbr.ai/) [@semantiDan]
- 1. [TME QQMUSIC/WESING](https://www.tencentmusic.com/) 
+ 1. [TME QQMUSIC/WESING](https://www.tencentmusic.com/) [@shenyuan]
  1. [Tobii](http://www.tobii.com/) [@dwa]
  1. [Tooploox](https://www.tooploox.com/) [@jakubczaplicki]
  1. [TrustMedis](https://trustmedis.com) [@famasya]
